@@ -24,7 +24,7 @@ public class ArrayMergeTwoArray {
      {
     	 array3[array1.length+j]=array2[j];
      }
-     System.out.println(Arrray Merge);
+     System.out.println("Arrray Merge");
      System.out.println(Arrays.toString(array1));
      System.out.println(Arrays.toString(array2));
      System.out.println(Arrays.toString(array3));
